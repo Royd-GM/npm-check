@@ -1,5 +1,5 @@
 {
-  "name": "npm-checker",
+  "name": "npm-scanner-stdin",
   "version": "5.9.2",
   "description": "Check for outdated, incorrect, and unused dependencies.",
   "main": "lib",
